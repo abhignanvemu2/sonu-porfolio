@@ -39,7 +39,7 @@ export const portfolioData = {
     },
     {
       id: 2,
-      videoUrl: "19M3QrEnZJOpphLC6nXBK1jKq9t4m6nxl"
+      videoUrl: "1VPxp9MuIQzxZKRMj9a-bcxRr1zolfWXa"
     },
     {
       id: 3,
@@ -64,11 +64,11 @@ export const portfolioData = {
 
     {
       id: 8,
-      videoUrl: "19aEolnnyyZpLfsPcKb-fPhkB9y_ygyNu"
+      videoUrl: "1QwUHi67nMMwtdtd5dh7aISfDyJ0aY-PW"
     },
     {
       id: 9,
-      videoUrl: "19M3QrEnZJOpphLC6nXBK1jKq9t4m6nxl"
+      videoUrl: "1FMMmuR9WX9GCEdwhf4tEJuCnbQVbGwUX"
     },
     {
       id: 10,
@@ -76,7 +76,7 @@ export const portfolioData = {
     },
     {
       id: 11,
-      videoUrl: "1yscvhQo50MhfkpiV29rY_i32shjxE0eJ"
+      videoUrl: "1TSu5y9EvSDYGhIvK9q7kZww5qQy8azCu"
     }
   ],
   contact: {
