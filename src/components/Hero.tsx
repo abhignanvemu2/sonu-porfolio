@@ -36,7 +36,7 @@ export default function Hero({ data }: HeroProps) {
         <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-pink-500/20 rounded-full blur-3xl animate-pulse delay-700"></div>
       </div>
 
-      <div className="relative z-10 text-center px-6 max-w-5xl">
+      <div className="relative z-10 text-center px-6 max-w-5xl pt-20">
         <div className="mb-6 inline-block">
           <div className="flex items-center space-x-2 px-4 py-2 bg-purple-500/10 border border-purple-500/30 rounded-full backdrop-blur-sm">
             <Sparkles className="w-4 h-4 text-purple-400" />

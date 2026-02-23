@@ -1,7 +1,7 @@
 export const portfolioData = {
   hero: {
     name: "Shaik Sonu",
-    title: "Senior Video Editor ",
+    title: "Professional Video Editor ",
     tagline: "Crafting Visual Stories with Precision & Creativity",
     yearsOfExperience: "4+",
     clientsServed: "60+",
@@ -10,7 +10,7 @@ export const portfolioData = {
     name: "Shaik Sonu",
     experience: "4+ Years",
     clients: "60+ Clients",
-    bio: "With over 7 years of professional video editing experience, I've had the privilege of working with 60+ clients across the fashion industry. My expertise lies in transforming raw footage into compelling visual narratives that captivate audiences and drive engagement.",
+    bio: "With over 4 years of professional video editing experience, I've had the privilege of working with 60+ clients. My expertise lies in transforming raw footage into compelling visual narratives that captivate audiences and drive engagement.",
     skills: [
       {
         category: "Adobe Creative Suite",
@@ -28,8 +28,8 @@ export const portfolioData = {
     achievements: [
       "Delivered 200+ high-end fashion video projects",
       "Expertise in AI-driven video enhancement workflows",
-      "Specialized in luxury brand storytelling",
-      "Advanced color grading for fashion cinematography"
+      "Specialized in luxury storytelling",
+      "Advanced color grading"
     ]
   },
   projects: [
