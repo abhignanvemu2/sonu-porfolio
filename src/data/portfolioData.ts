@@ -35,7 +35,7 @@ export const portfolioData = {
   projects: [
     {
       id: 1,
-      videoUrl: "1-C6wdu22KXzas_5gECLMg_ZG-_kSCJE0"
+      videoUrl: "1KdcwEJ6X6CD9XpP9EK35BRMQZPRzCsZM"
     },
     {
       id: 2,
